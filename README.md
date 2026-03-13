@@ -31,10 +31,6 @@ pip install -r requirements.txt
 
 uvicorn app.main:app --reload
 
-## API Documentation
+5. Render (Deployment)
+https://fastapi-task-manager-wqws.onrender.com/docs#/
 
-Swagger UI:
-http://127.0.0.1:8000/docs
-
-ReDoc:
-http://127.0.0.1:8000/redoc
